@@ -1,1 +1,2 @@
-my sedcond README
+my second README
+and i hate it
